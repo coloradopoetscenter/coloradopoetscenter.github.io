@@ -25,7 +25,7 @@ layout: default
         </ul>
         
     </div>
-    <div class="columns medium-9">
+    <div class="columns medium-9 content">
         <ul class="menu">
             <li><strong>Poems:</strong></li>
             {%- include_relative _poems.html %}
@@ -33,6 +33,10 @@ layout: default
         <h1>{{page.title}}</h1>
 
         {{ content }}
+        
+        {% if page.removeMargin %}
+        <style type="text/css">.content p{margin:0;padding:0;line-height:1.2em}</style>
+        {% endif %}
 
     </div>
 </div>
