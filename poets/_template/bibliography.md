@@ -1,0 +1,4 @@
+---
+layout: poet
+title: Biography
+---
