@@ -1,0 +1,48 @@
+/* CSS Document */
+
+body {background-color:#f1f1f1;}
+
+.header-row {background-color:#569BE0; background-image:url("/assets/images/header-large.jpg"); background-size:cover; background-repeat:no-repeat; background-position:center;}
+
+.az-row {background-color:#f1f1f1; padding-top:1.0625rem; border-bottom:2px solid #569BE0;}
+.az-row li a:hover {font-weight:bold;}
+
+#header {min-height:250px; position:relative;}
+#header p.sitetitle {margin:0; padding:0; position:absolute; bottom:10px; left:10px; font-size:2.5em; text-shadow: 2px 2px #569BE0;}
+#header a p.sitetitle{color:#fff;}
+
+.container {padding:25px 0; background-color:#fff;}
+
+h1 {font-size:1.8em;}	
+h2 {font-size:1.65em;}
+h3 {font-size:1.4em;}
+h4 {font-size:1.15em;}
+h5 {font-size:1em;}
+
+.above-columns h2 {font-size:2em; border-bottom:1px solid #ccc; margin-bottom:20px; padding:0 0 15px 0; color:#32761c;}
+
+#leftnav img {width:150px; text-align:center;}
+#leftnav ul {list-style-type:none;margin:0 0 1em 0; padding:0;}
+#leftnav li {margin:0; padding:0;}
+#leftnav li a, #content #rightbox ul a {padding:8px 15px; display:block;}
+#leftnav li a:hover, #content #rightbox ul a:hover {background-color:#f1f1f1;}
+#leftnav h2 {font-size:1.1em; line-height: 1.1em; font-weight: bold;}
+
+.sub-top-nav {background-color:#f1f1f1; padding:.9em 0;}
+
+#topnav p {background-color:#f1f1f1; padding:.9em; margin:0 0 15px 0;}
+
+.footer {background-color:#f1f1f1; border-top:2px solid #569BE0; padding:25px 0;}
+.footer p {text-align:center; font-size:.8em;}
+
+
+
+/* ewords specific: */
+#content #rightbox {margin:25px 10px; border:2px solid #e1e1e1; padding:10px; background-color:#fff;}
+#content #rightbox ul {list-style-type:none; margin:0; padding:0;}
+#content #rightbox ul li {display: inline-block;}
+#content #rightbox h2 strong {font-weight:normal;}
+
+#content .quote {margin:30px 10%; padding:25px; border-top:2px solid #569BE0; border-bottom:2px solid #569BE0}
+#content .quote p {margin:0; padding:0 10%; font-size:125%; font-style:italic; color:#888;}
+#content .imagebox {width:250px; float:right; margin:10px; border:2px solid #ccc; padding:5px; background:#fff;}

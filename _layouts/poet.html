@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="row">
+    <div class="columns medium-3" id="leftnav">
+        {%- include_relative _leftnav.html %}
+    </div>
+    <div class="columns medium-9">
+        <ul class="menu">
+            <li><strong>Poems:</strong></li>
+            {%- include_relative _poems.html %}
+        </ul>
+        
+        <h1>{{page.title}}</h1>
+
+        {{ content }}
+
+    </div>
+</div>
