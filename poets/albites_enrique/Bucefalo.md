@@ -1,6 +1,6 @@
 ---
 layout: poet
-title: <a href="http://lafiestadelfauno.blogspot.com/2007/09/bucfalo.html">Bucéfalo</a>
+title: //lafiestadelfauno.blogspot.com/2007/09/bucfalo.html">Bucéfalo</a>
 
 removeMargin: false
 
