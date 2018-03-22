@@ -1,7 +1,9 @@
 ---
 layout: poet
 title: Biography
+
 ---
+
 
 <ul><li><em>as orion falls</em>,  Ghost Road Press, 2005.</li>
 <li><em>Rise, do not be afraid</em> (novel), forthcoming, Ghost Road Press</li>

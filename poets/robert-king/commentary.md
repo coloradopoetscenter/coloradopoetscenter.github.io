@@ -1,13 +1,15 @@
 ---
 layout: poet
 title: Critical Commentary
+
 ---
-<h2>On <em>What  It Was Like</em> (Small Poetry Press Select Poets Series, 2003)</h2>
+
+
 <p>In <em>What  It Was Like</em>, Robert King writes with a clarity and depth and a regard for  our frail humanity that is refreshing--&quot;pressing a crisp attention to the  words.&quot; He offers us poems that make us laugh and reflect and remember  &quot;This time. That. And the dancing in between.&quot; This book is a  treasure.<br />
 &nbsp;&nbsp;&nbsp;&nbsp; (Lisa  Zimmerman)<br />
 </p>
-<h2>On <em>Old  Man Laughing</em> (Ghost Road Press, 2007)<em>:</em></h2>
+
 <p>If there is a bearable lightness of  being, it informs and leavens the poems in Robert King&rsquo;s <em>Old Man Laughing</em>. The poems are serious, exuberant, occasionally  formal, and full of delight. They can combine the quiet spareness of ancient  Chinese poetry with a wild extravagance and from the two birth a deep humanity.  When you read the opening lines of &ldquo;From the Book of Rope&rdquo;&mdash;&ldquo;First, there is  love. Secondly, / the square knot&rdquo;&mdash;you know a linguistic and human adventure is  unfolding. The whole book is that adventure, as the flashlight of precise  observation and the transformation of insight into poetry illuminates first  this, then that&mdash;love, rope, music, maps, sorrow, aunts, fireflies, the  accidental. From the child&rsquo;s view in &ldquo;What It Was Like Those Days&rdquo;&mdash; &ldquo;Even the  dead, I thought then, / grinning as I biked around town, / were happy in their  own way&rdquo;&mdash;to the final lines of &ldquo;Loss&rdquo;&mdash;&ldquo;Especially old, especially alone, / I  laugh as, walking, I falter&rdquo;&mdash;reading these poems will make you feel buoyant,  human, and lucky.<br />
 &nbsp;&nbsp;&nbsp;&nbsp; (Veronica  Patterson)</p>
-<h2>On <em>Naming Names</em> (Palanquin Press, 2001; 2nd edition 2006)</h2>
+
 <p>These poems burst their boundaries up and down and margin outwards  towards the still untamed infinity of words, work their coordinates through  restless references and indexes always towards a greater shifting irony that  bends and warps like bodies in a fun house mirror. No discipline measured in  either language or numbers escapes his testing, no starting point so  commonplace its mystery and strangeness does not taunt him and tease us. What  results is the naming of Naming Names, part Adam's assertion of the world, part  necessary price of admission to the numinous carnival of plenitude which is our  lives. Always somehow, through it all, Bob retains his fresh-faced enthusiasm  and his wry good humor.&rdquo; (Greg Kuzma) </p>

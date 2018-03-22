@@ -1,8 +1,11 @@
 ---
 layout: poet
 title: The Thoughtful Speech Of Stones
+
 removeMargin: false
+
 ---
+
 
 <h1>The Thoughtful Speech Of Stones</h1>
 <p>I’ve spent a long time learning the songs of wind and water, <br />
