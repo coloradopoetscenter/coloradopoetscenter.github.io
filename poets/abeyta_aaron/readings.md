@@ -3,7 +3,7 @@ layout: poet
 title: Readings / Workshop Availability
 ---
 <p>Aaron travels and reads across the Rocky Mountain region and beyond, coordinated with his teaching schedule.</p>
-              <h2>Contact:</h2>
+              
               <p>aaron a. abeyta<br />
               p.o. box 312<br />
               Antonito CO 81120<br />

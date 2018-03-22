@@ -5,7 +5,7 @@ title: Biography
 
 
 <p>Selected Poetry Publications<a name="_Hlk497917793" id="_Hlk497917793"> (some  published under former name, Jane Wampler)</a></p>
-<h2>Literary Journals</h2>
+
 <ul>
   <li><em>Poetry  Northwest,</em> 2017. &ldquo;Ursula  Caesura.&rdquo; </li>
   <li><em>Vox Populi</em>, 2016. &ldquo;Memento Mori,&rdquo; &ldquo;Coda to Marriage,&rdquo; &ldquo;Broken Spring,&rdquo; and  &ldquo;Soundtrack.&rdquo;</li>
@@ -22,7 +22,7 @@ title: Biography
   <li><em>The Eleventh  Muse. </em>2004. &ldquo;Waiting There,&rdquo;</li>
   <li><em>Missouri  Review, </em>2000. &ldquo;Horse, I Reason,&rdquo; &ldquo;Dance for Me,&rdquo; &ldquo;What Memorial Would You  Have Wanted to See?&rdquo; and &ldquo;A Fire Hot Enough.&rdquo;        </li>
 </ul>
-<h2>Anthologies</h2>
+
 <ul>
   <li><em>Underneath:  The University of Canberra Vice-Chancellor&rsquo;s International Poetry Prize 2015</em>.  &ldquo;Echogenic.&rdquo; </li>
   <li><em>Poems from  the Baca Grande, </em>Hulbert Center Press, 2005. &ldquo;Curtains,&rdquo; &ldquo;Granite that&rsquo;s Been  Falling,&rdquo; and &ldquo;Letter from Crestone.&rdquo;</li>

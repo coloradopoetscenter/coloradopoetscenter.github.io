@@ -3,7 +3,7 @@ layout: poet
 title: 
 ---
 
-<h2>In  Memoriam</h2>
+
 <p> Michael Adams published his  first poem in a high school literary journal in 1966.<br />
 He was the author of six  books of poetry and essays that are still in print, including <strong>If You  Can Still Dance With It(Turkey Buzzard Press, 2012) Steel Valley (Lummox Press,  2010), Whistleblowers (Turkey Buzzard Press 2009), Broken Hand</strong><em><strong> </strong></em><strong>Peak (Turkey Buzzard  Press, 2008) Underground</strong><em><strong> </strong></em><strong>(Longhand  Press, 2007) and Between Heaven and Earth (Elik Press, 2004). His most recent  manuscript, still untitled, will be published by LUMMOX Press in 2014 and will  consist of new poems written between 2010 and 2013. </strong></p>
 <p><strong>Michael grew up in a blue-collar neighborhood in the heart of the Steel  Valley just south of Pittsburgh, PA, and at that time one of the most heavily  industrialized areas in the world. He has a Bachelor&rsquo;s degree in Anthropology  and a Master&rsquo;s degree in planning, both from the University of Pittsburgh.  Michael has been a steel worker, urban planner, mountaineering guide, teacher,  and natural resource manager. His diverse work experience and upbringing have  given him a lifelong passion for issues of social, economic, and environmental  justice and a love for the natural world.</strong></p>

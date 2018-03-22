@@ -1,6 +1,7 @@
 ---
 layout: poet
 title: Joseph Mikula
+
 removeMargin: false
 ---
 

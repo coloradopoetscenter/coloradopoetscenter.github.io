@@ -1,6 +1,7 @@
 ---
 layout: poet
 title: The Thoughtful Speech Of Stones
+
 removeMargin: false
 ---
 
