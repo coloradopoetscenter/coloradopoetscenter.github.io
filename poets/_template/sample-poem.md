@@ -1,6 +1,5 @@
 ---
 layout: poet
-title: 
+title:removeMargin: false
 
-removeMargin: false
 ---

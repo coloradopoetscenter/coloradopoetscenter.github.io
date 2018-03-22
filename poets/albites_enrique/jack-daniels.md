@@ -3,9 +3,8 @@ layout: poet
 title: Jack Daniels  (From the unpublished  book <em>Séptimo poema</em>)
 
 removeMargin: false
+
 ---
-
-
 
 <p>What  surprises me the most are not suicidal fanatics blowing up in a thousand pieces<br />
 in  the streets of Baghdad or that we are losing a war that we are <br />

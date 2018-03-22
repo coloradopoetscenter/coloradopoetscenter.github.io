@@ -1,7 +1,9 @@
 ---
 layout: poet
 title: Robert King
+
 ---
+
 
 <p>Born in Denver, Colorado, with Ft.  Collins his hometown, Robert King attended Colorado State University (M. A.  American Literature, 1961) and the University of Iowa (Ph. D. English/Creative  Writing, 1965).&nbsp; He retired from the  University of North Dakota as Professor Emeritus in 1995.&nbsp; After five years as Visiting Professor of  English at the University of Nebraska/Lincoln, he came to Greeley where he  taught part-time at the University of Northern Colorado. Now retired, he  directs the Colorado Poets Center.</p>
 

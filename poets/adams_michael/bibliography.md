@@ -1,7 +1,9 @@
 ---
 layout: poet
 title: Biography
+
 ---
+
 
 <ul>
 <li><em>Steel Valley</em> (  Lummox Press, 2010)</li>

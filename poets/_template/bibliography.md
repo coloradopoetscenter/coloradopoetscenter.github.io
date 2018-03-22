@@ -1,4 +1,6 @@
 ---
 layout: poet
 title: Biography
+
 ---
+

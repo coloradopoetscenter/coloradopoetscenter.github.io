@@ -3,7 +3,9 @@ layout: poet
 title: Big Sur (Del libro  inédito <em>El arco y la flecha</em>)
 
 removeMargin: false
+
 ---
+
 <p>Acantilados  y la fuerza de las olas,&nbsp;<br />
 visiones  de verano,<br />
 un  manto dorado sobre el Pacífico violento,&nbsp;<br />

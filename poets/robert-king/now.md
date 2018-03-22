@@ -2,7 +2,9 @@
 layout: poet
 title: Now
 type: poem
+
 ---
+
 
 <p>I shuffle on snowshoes through the  pines<br />
 in last night&rsquo;s snow--so where I  am </p>

@@ -3,7 +3,9 @@ layout: poet
 title: <a href="http://lafiestadelfauno.blogspot.com/2007/09/bucfalo.html">Bucéfalo</a>
 
 removeMargin: false
+
 ---
+
 
 <p>Junto  a un río de una ciudad cualquiera,<br />
 un jinete recorre la foto ennegrecida<br />

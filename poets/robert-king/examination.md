@@ -2,7 +2,9 @@
 layout: poet
 title: Examination
 type: poem
+
 ---
+
 
 <p>It is science to see my father&rsquo;s  skull&mdash;<br />
 as he lies in the dim machine next  door&mdash;<br />

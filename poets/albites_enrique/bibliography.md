@@ -1,7 +1,9 @@
 ---
 layout: poet
 title: Biography
+
 ---
+
 
 <p>&ldquo;Selected Poems.&rdquo; Pulenta Pool:  Peruvian Poets in the US. Hostos Review / Revista Hostosiana CUNY 13 (Spring  2017): 65-75. Print. </p>
 <p>&ldquo;Pecan Tree.&rdquo; <em>Arkansas Review</em> 46.3 (Fall 2015): 181.  Print. </p>
@@ -11,7 +13,7 @@ title: Biography
 <p><em>Los territorios ocupados</em>. Lima: Ediciones Mundo Ajeno, 2008. Fiction. </p>
 <p><em>Antología de poesía peruana de los noventa:  Los relojes se han roto</em>. Guadalajara: Ediciones  Arlequín, 2005. Co-edited and Forward. Print.</p>
 <ul>
-<li>This book was quoted by <em>The Princeton Encyclopedia of Poetry and  Poetics. </em>Entry: Peru, Poetry of (p. 1030), 2012.        </li>
+<li>This book was quoted by <em>The Princeton Encyclopedia of Poetry and  Poetics. </em>Entry: Peru, Poetry of (p. 1030), 2012.  </li>
 </ul>
 <p><em>Antología de poesía: la alineación de los  planetas</em>. Boston: Asalto al cielo  editores, 2005. Poetry. Print.<u></u></p>
 <p><em>21 poemas: Cerridwen</em>. Lima: Intermezzo Tropical editores, 2002. Poetry.  Print.</p>

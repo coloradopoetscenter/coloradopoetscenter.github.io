@@ -3,7 +3,9 @@ layout: poet
 title: Sweet
 
 removeMargin: false
+
 ---
+
 <p>All is Well/--This was what Charlie Parker/Said when  he played, All is Well.<br />
 <em>Jack Kerouac</em></p>
 <p>Horns &amp; whiskey <br />

@@ -1,8 +1,7 @@
 ---
 layout: poet
-title: Jack Daniels (Del libro inédito <em>Séptimo  poema</em>) 
+title: Jack Daniels (Del libro inédito <em>Séptimo  poema</em>)removeMargin: false
 
-removeMargin: false
 ---
 
 

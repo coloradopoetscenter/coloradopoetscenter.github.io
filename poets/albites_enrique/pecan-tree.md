@@ -3,9 +3,8 @@ layout: poet
 title: Pecan Tree
 
 removeMargin: false
+
 ---
-
-
 
 <p><em>We were sitting underneath a fig tree</em> <br />
 Barret  Smith</p>
@@ -22,7 +21,7 @@ She left  behind the year she was born.</p>
 <p>I like  to go around the Pecan Tree <br />
 I like  how my kids climb it <br />
 From  there they tell me stories and jokes:<br />
-&ldquo;Her  name was Barb and she had to fart&rdquo;        </p>
+&ldquo;Her  name was Barb and she had to fart&rdquo;  </p>
 <p>Trees  are books also<br />
 Books  that devours us<br />
 From  within like little cannibals <br />
